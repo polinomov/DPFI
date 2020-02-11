@@ -1,0 +1,4 @@
+[submodule "submodule-test"]
+	path = submodule-test
+	url = ../submodule-test
+	branch = branch-a
